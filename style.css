@@ -1,0 +1,28 @@
+.navbar{
+    background-color: aqua;
+    padding-bottom: 10px;
+
+}
+.quemsomos{
+    background-color: greenyellow;
+ 
+
+}
+ .margin{
+     padding-top: 50px;
+     padding-bottom: 10px;
+     
+ }
+    .parceiros{
+        background-color:lightblue;
+    }
+    .endfooter{
+        background-color: black;
+        color:white;
+
+    }
+    .text{
+        font-style: italic;
+        font-size: 25px;
+      
+    }
